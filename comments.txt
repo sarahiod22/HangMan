@@ -1,6 +1,6 @@
 I spent two and a half hours on the challenge. 
 
-I used C++ and my code run on the command line 
+I used C++ and my code runs on the command line 
 
 My code first checks that the input is a letter, so no numbers or special characters are accepted.
 Afterward, converts the letter to lowercase so that both uppercase and lowercase letters work.
