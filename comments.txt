@@ -11,5 +11,5 @@ For the list of words, I decided to use an array, but I could have used a vector
 For the list of incorrectly guessed letters, I used a vector because it is easier to add elements at the end.
 For the list of correctly guessed letters, I used an array because I know from the beginning the size of the array (the same as the size of the word being guessed) and I'm not adding or removing items.
 
-I decided to create a class named HangMan with .h and .cpp files because I think that it can be represented as a separate object with functions that help to solve the game.
+I decided to create a class named HangMan with .h file because I think that it can be represented as a separate object with functions that help to solve the game.
 Also, so that main.cpp stays easy to understand. 
